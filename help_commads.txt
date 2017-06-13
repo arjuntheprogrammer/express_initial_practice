@@ -1,0 +1,2 @@
+express projectname
+npm install
